@@ -10,7 +10,7 @@ Test project for Software Engineer recruitment at VhiWEB.
 
 ## 🛠️ Tech Stack
 
--   Laravel 10
+-   Laravel 12
 -   Sanctum Authentication
 -   MySQL
 
