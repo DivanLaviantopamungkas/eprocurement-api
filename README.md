@@ -57,15 +57,7 @@ PUT /api/products/{id}
 
 DELETE /api/products/{id}
 
-⚙️ Notes
+Notes
 Only users who have registered a vendor can manage products.
 
 Authentication uses Laravel Sanctum (token-based).
-
-### 5. **Simpan & Commit ke Git**
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push origin main
-```
