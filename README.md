@@ -1,6 +1,6 @@
 # VhiWEB E-Procurement API
 
-Test project for Software Engineer recruitment at VhiWEB.
+Test project for Backend Test recruitment at VhiWEB.
 
 ## 🔧 Features
 
