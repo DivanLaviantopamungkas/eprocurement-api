@@ -19,7 +19,7 @@ Test project for Software Engineer recruitment at VhiWEB.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/vhiweb-eprocurement-api.git
+git clone [https://github.com/DivanLaviantopamungkas/eprocurement-api]
 cd vhiweb-eprocurement-api
 ```
 
